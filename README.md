@@ -1,4 +1,4 @@
-# Wetask
+# WeTask
 
 ## Introduction
 
@@ -8,6 +8,6 @@ To read more, visit: https://slavakurilyak.com/wetask-modern-task-management
 
 # Contribute
 
-If you want to contribute to this project, create a [new issue](https://github.com/slavakurilyak/wetask/issues) or email Slava at hello@slavakurilyak.com. 
+If you want to contribute to WeTask, create a [new issue](https://github.com/slavakurilyak/wetask/issues) or email Slava at hello@slavakurilyak.com. 
 
 Let's build the future!
